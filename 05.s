@@ -1,4 +1,4 @@
-// Programa: División de dos números
+// Programa: 05.s
 // Autor: Bejarano Duque Antoine 21211918
 // Descripción: Divide el primer número por el segundo y muestra el cociente
 // Entradas:
