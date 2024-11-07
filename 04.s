@@ -1,4 +1,4 @@
-// Programa: Multiplicación de dos números
+// Programa: 04.s
 // Autor: Bejarano Duque Antoine 21211918
 // Descripción: Multiplica dos números y muestra el resultado
 // Entradas:
