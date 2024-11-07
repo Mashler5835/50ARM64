@@ -1,4 +1,4 @@
-// Programa: Celsius a Fahrenheit
+// Programa: 01.s
 // Autor: Bejarano Duque Antoine 21211918
 // Descripción: Convierte una temperatura de Celsius a Fahrenheit
 // Fórmula: F = C * 9 / 5 + 32
