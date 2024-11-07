@@ -1,4 +1,4 @@
-// Programa: División de dos números
+// Programa: 06.s
 // Autor: Bejarano Duque Antoine 21211918
 // Descripción: Suma de los N primeros numeros naturales
 .global _start
