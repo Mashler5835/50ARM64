@@ -1,4 +1,4 @@
-// Programa: Suma de dos números
+// Programa: 02.s
 // Autor: Bejarano Duque Antoine 21211918
 // Descripción: Suma dos números y muestra el resultado
 // Entradas:
