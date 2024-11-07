@@ -1,4 +1,4 @@
-// Programa: Resta de dos números
+// Programa: 03.s
 // Autor: Bejarano Duque  Antoine 21211918
 // Descripción: Resta dos números y muestra el resultado
 // Entradas:
