@@ -14,7 +14,7 @@ _start:
 
         // Salida del programa
         mov     x8, #93        // Código para sys_exit
-//        svc     #0
+        svc     #0
 //using System;
 //
 //class Program
