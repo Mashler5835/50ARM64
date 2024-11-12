@@ -1,6 +1,6 @@
 // Programa: 34.s
 // Autor: Bejarano Duque Antoine 21211918
-// Descripción: Suma de elementos en un arreglo
+// Descripción: Invertir los elementos en un arreglo
 .global _start
 
 .text
