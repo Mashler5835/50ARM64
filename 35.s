@@ -1,6 +1,6 @@
 // Programa: 35.s
 // Autor: Bejarano Duque Antoine 21211918
-// Descripción: Suma de elementos en un arreglo
+// Descripción: Rotacion de un arreglo (izquierda/derecha)
 .global _start
 
 .text
