@@ -1,6 +1,6 @@
 // Programa: 41.s
 // Autor: Bejarano Duque Antoine 21211918
-// Descripción: Convertir binario a decimal
+// Descripción: Convertir decimal a hexadecimal
 .global _start
 
 .text
